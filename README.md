@@ -1,1 +1,2 @@
 # IrisFlowerClassification
+The Iris flower dataset is a classic and well-known dataset in the field of machine learning. It consists of measurements of sepal length, sepal width, petal length, and petal width for three different species of Iris flowers. This is an machine learning model that can accurately classify the species of an Iris flower based on its measurements.The "Random Forest Classifier" algorithm is employed to build the classification model.
